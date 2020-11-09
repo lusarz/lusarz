@@ -11,7 +11,7 @@ I'm Łukasz Usarz, a Software Developer from Poland.
 - [Vuelendar - created VueJS calendar component](https://github.com/codesthq/vuelendar)
 - [JIRA CLI - tool that allow to manage JIRA tasks using command line](https://github.com/lusarz/jira-node-cli)
 - [Linklog - created UI for linklog app using Nuxt](https://github.com/driggl/linklog) - up and running on [webdevflow.com](https://webdevflow.com)
-- [Bisq - a few commits](https://github.com/bisq-network/bisq/commits/master?author=lusarz)
+- [Bisq - a few pull requests](https://github.com/bisq-network/bisq/pulls?q=is%3Apr+author%3Alusarz)
 
 **Languages and Tools:**
 <br /><br />
