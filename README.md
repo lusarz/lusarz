@@ -21,4 +21,4 @@ I'm Łukasz Usarz, a Software Developer from Poland.
 
 **Visitors**
 <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.lusarz)
